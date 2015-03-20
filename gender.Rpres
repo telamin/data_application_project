@@ -1,0 +1,45 @@
+
+The Canadian Employment Rates by Gender                                             
+========================================================
+author: Tarig Elamin
+date:   March20,2015
+transition: rotate
+font-family: 'Helvetica'
+
+
+Introduction
+========================================================
+
+This presentation attempted to use rCharts to view the Canadian employment rate trends in selected years within 1976-2009.
+
+## Relevance
+
+The employment rate shows the percentage of Canadian adults (15 years of age and over) working for pay, and thus in a position to earn income to take care of themselves and their families.
+
+## National Employment Picture
+
+Economic cycles and recessions notwithstanding, Canada's employment rate increased over the last three decades and a half. In 2012, the percentage of adult Canadians who were holding a job was 61.8%, up from 57.1% in 1976, an increase of 4.7 percentage points.
+
+The rCharts is below the data for 2001 as an example
+========================================================
+![rCharts](Rplot.png)
+
+
+ More details
+========================================================
+For more details,if you please refer to our shiny application:
+
+[the shiny app link](https://tarigelamin.shinyapps.io/shinyyy/)
+
+
+ Conclusion
+========================================================
+## From the graph,it seemed that there is a clear postive upward trend 
+
+## Employment rates for  women  aged 15 and over, 1976 to 2009
+
+## The employment rate gap between women and men is closing more and more
+
+## Data source:Statistics Canada
+
+ 

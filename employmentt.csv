@@ -1,0 +1,141 @@
+provincecode,year,id,gender,value,province
+  NL,1976,1,female,27.7,Newfoundland and Labrador
+   NL,1976,2,male,57.5,Newfoundland and Labrador
+ PE,1976,3,female,38,Prince Edward Island
+ PE,1976,4,male,66.3,Prince Edward Island
+NS,1976,5,female,36,Nova Scotia
+NS,1976,6,male,65.8,Nova Scotia
+   NB,1976,7,female,34,New Brunswick
+  NB,1976,8,male,62.2,New Brunswick
+QC,1976,9,female,37.4,Quebec
+QC,1976,10,male,70.5,Quebec
+ON,1976,11,female,45.8,Ontario
+ON,1976,12,male,75.3,Ontario
+MB,1976,13,female,44.5,Manitoba
+MB,1976,14,male,73.8,Manitoba
+SK,1976,15,female,41.1,Saskatchewan
+SK,1976,16,male,75.1,Saskatchewan
+AB,1976,17,female,49.2,Alberta
+AB,1976,18,male,80,Alberta
+BC,1976,19,female,41.9,British Columbia
+BC,1976,20,male,71.3,British Columbia
+  NL,1986,21,female,35.8,Newfoundland and Labrador
+  NL,1986,22,male,52.5,Newfoundland and Labrador
+  NL,1991,23,female,40.8,Newfoundland and Labrador
+  NL,1991,24,male,51.3,Newfoundland and Labrador
+  NL,1996,25,female,38.5,Newfoundland and Labrador
+  NL,1996,26,male,46.1,Newfoundland and Labrador
+  NL,2001,27,female,44.6,Newfoundland and Labrador
+  NL,2001,28,male,51,Newfoundland and Labrador
+  NL,2006,29,female,48.3,Newfoundland and Labrador
+  NL,2006,30,male,52.7,Newfoundland and Labrador
+  NL,2009,31,female,47.8,Newfoundland and Labrador
+  NL,2009,32,male,52.5,Newfoundland and Labrador
+ PE,1986,33,female,46.1,Prince Edward Island
+ PE,1986,34,male,63.2,Prince Edward Island
+ PE,1991,35,female,49.1,Prince Edward Island
+ PE,1991,36,male,59.8,Prince Edward Island
+ PE,1996,37,female,51.3,Prince Edward Island
+ PE,1996,38,male,61.8,Prince Edward Island
+ PE,2001,39,female,55,Prince Edward Island
+ PE,2001,40,male,63.2,Prince Edward Island
+ PE,2006,41,female,58.9,Prince Edward Island
+ PE,2006,42,male,63.5,Prince Edward Island
+ PE,2009,43,female,57.9,Prince Edward Island
+ PE,2009,44,male,62.2,Prince Edward Island
+NS,1986,45,female,43,Nova Scotia
+NS,1986,46,male,61.4,Nova Scotia
+NS,1991,47,female,47.1,Nova Scotia
+NS,1991,48,male,61.6,Nova Scotia
+NS,1996,49,female,46.4,Nova Scotia
+NS,1996,50,male,58,Nova Scotia
+NS,2001,51,female,51.6,Nova Scotia
+NS,2001,52,male,60.6,Nova Scotia
+NS,2006,53,female,55,Nova Scotia
+NS,2006,54,male,61.1,Nova Scotia
+NS,2009,55,female,56.4,Nova Scotia
+NS,2009,56,male,61,Nova Scotia
+   NB,1986,57,female,41.2,New Brunswick
+  NB,1986,58,male,58.1,New Brunswick
+   NB,1991,59,female,44.8,New Brunswick
+  NB,1991,60,male,58.1,New Brunswick
+   NB,1996,61,female,46.7,New Brunswick
+  NB,1996,62,male,57,New Brunswick
+   NB,2001,63,female,51.1,New Brunswick
+  NB,2001,64,male,59.2,New Brunswick
+   NB,2006,65,female,55.1,New Brunswick
+  NB,2006,66,male,61.3,New Brunswick
+   NB,2009,67,female,56.1,New Brunswick
+  NB,2009,68,male,62,New Brunswick
+QC,1986,69,female,45.7,Quebec
+QC,1986,70,male,66.8,Quebec
+QC,1991,71,female,48.1,Quebec
+QC,1991,72,male,64.1,Quebec
+QC,1996,73,female,47.7,Quebec
+QC,1996,74,male,61.7,Quebec
+QC,2001,75,female,51.7,Quebec
+QC,2001,76,male,64.4,Quebec
+QC,2006,77,female,55.6,Quebec
+QC,2006,78,male,65,Quebec
+QC,2009,79,female,56.7,Quebec
+QC,2009,80,male,62.9,Quebec
+ON,1986,81,female,54.4,Ontario
+ON,1986,82,male,73.9,Ontario
+ON,1991,83,female,55.6,Ontario
+ON,1991,84,male,68.7,Ontario
+ON,1996,85,female,53.6,Ontario
+ON,1996,86,male,66.1,Ontario
+ON,2001,87,female,57.6,Ontario
+ON,2001,88,male,68.6,Ontario
+ON,2006,89,female,59,Ontario
+ON,2006,90,male,68.1,Ontario
+ON,2009,91,female,58.2,Ontario
+ON,2009,92,male,64.4,Ontario
+MB,1986,93,female,52.8,Manitoba
+MB,1986,94,male,70.8,Manitoba
+MB,1991,95,female,54.6,Manitoba
+MB,1991,96,male,68.1,Manitoba
+MB,1996,97,female,54.7,Manitoba
+MB,1996,98,male,68.7,Manitoba
+MB,2001,99,female,58.1,Manitoba
+MB,2001,100,male,70.9,Manitoba
+MB,2006,101,female,60.7,Manitoba
+MB,2006,102,male,71.2,Manitoba
+MB,2009,103,female,60.3,Manitoba
+MB,2009,104,male,71.4,Manitoba
+SK,1986,105,female,52.1,Saskatchewan
+SK,1986,106,male,71.4,Saskatchewan
+SK,1991,107,female,54.6,Saskatchewan
+SK,1991,108,male,69.6,Saskatchewan
+SK,1996,109,female,54.2,Saskatchewan
+SK,1996,110,male,68.1,Saskatchewan
+SK,2001,111,female,55.7,Saskatchewan
+SK,2001,112,male,68.2,Saskatchewan
+SK,2006,113,female,60.6,Saskatchewan
+SK,2006,114,male,71.3,Saskatchewan
+SK,2009,115,female,61.8,Saskatchewan
+SK,2009,116,male,71.8,Saskatchewan
+AB,1986,117,female,57.1,Alberta
+AB,1986,118,male,73.6,Alberta
+AB,1991,119,female,59.5,Alberta
+AB,1991,120,male,73.8,Alberta
+AB,1996,121,female,60.7,Alberta
+AB,1996,122,male,73.9,Alberta
+AB,2001,123,female,62.8,Alberta
+AB,2001,124,male,75.1,Alberta
+AB,2006,125,female,64.6,Alberta
+AB,2006,126,male,76.9,Alberta
+AB,2009,127,female,64.1,Alberta
+AB,2009,128,male,74.5,Alberta
+BC,1986,129,female,47.9,British Columbia
+BC,1986,130,male,66.3,British Columbia
+BC,1991,131,female,53.5,British Columbia
+BC,1991,132,male,67.3,British Columbia
+BC,1996,133,female,53.6,British Columbia
+BC,1996,134,male,66.5,British Columbia
+BC,2001,135,female,54.6,British Columbia
+BC,2001,136,male,63.6,British Columbia
+BC,2006,137,female,58,British Columbia
+BC,2006,138,male,67.2,British Columbia
+BC,2009,139,female,57.5,British Columbia
+BC,2009,140,male,64.5,British Columbia
